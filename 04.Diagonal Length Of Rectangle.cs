@@ -1,3 +1,5 @@
+/*Write a program to input the length and breadth of a rectangle
+and find its diagonal, using method diagonal=sqrt(length^2 + breadth^2)*/
 using System;
 
 namespace DiagonalLengthOfRectangle
