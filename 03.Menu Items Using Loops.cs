@@ -1,3 +1,8 @@
+/*Create a project to demonstrate the working of looping
+statement used in c# to select an option from the menu. Upon selecting a menu
+item, we will be taken to concerned options. Here, if we don't select any
+options, it just hangs out. So the condition(menu) must be displayed, before
+its usage*/
 using System;
 
 namespace LoopMenu
