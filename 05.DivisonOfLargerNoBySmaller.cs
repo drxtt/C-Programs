@@ -5,7 +5,7 @@ end, if it is valid entry, divide the larger number with the smaller
 number and display the result*/
 using System;
 
-namespace DiagonalLengthOfRectangle
+namespace DivisonOfLargerNoBySmaller
 {
     internal class Program
     {
